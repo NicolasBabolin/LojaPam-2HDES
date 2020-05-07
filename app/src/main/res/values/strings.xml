@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LojaPam</string>
+    <string name="insira_seu_email">Insira seu email</string>
+    <string name="insira_sua_senha">Insira sua senha</string>
+    <string name="entrar">entrar</string>
+    <string name="sair">sair</string>
+
+
+</resources>
